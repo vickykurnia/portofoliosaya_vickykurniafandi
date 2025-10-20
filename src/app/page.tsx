@@ -17,7 +17,7 @@ export default function Home() {
       
       {/* FOTO */}
       <Image
-        src="/foto.png!sw800"
+        src="/download.jpg"
         alt="Profile"
         width={120}
         height={120}
